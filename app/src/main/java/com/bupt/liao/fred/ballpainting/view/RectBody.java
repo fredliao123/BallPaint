@@ -8,10 +8,10 @@ import android.graphics.RectF;
  * Created by fred on 2017/7/14.
  */
 
-public class MyRect {
+public class RectBody {
     float x, y, width, height;
 
-    public MyRect(float x, float y, float width, float height){
+    public RectBody(float x, float y, float width, float height){
         this.x = x;
         this.y = y;
         this.width = width;
